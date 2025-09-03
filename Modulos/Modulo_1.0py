@@ -1,0 +1,7 @@
+# Importa Modulo
+import Modulo_0 as Saludando
+
+saludo = Saludando.Saludar("JELFRY")
+print(saludo)
+
+print(type(Saludando))
